@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Aurora AFK Bot
+# 🤖 My aurora afkbot!
 
 **An advanced Minecraft AFK bot that moves, eats, pathfinds, and responds to chat commands — built with Mineflayer**
 
