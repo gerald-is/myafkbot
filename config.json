@@ -2,10 +2,10 @@
   "server": {
     "host": "24-7-server.aternos.me", 
     "port": 63400,
-    "version": ""
+    "version": "26.12"
   },
   "bot": {
-    "username": "aurora_assistant",
+    "username": "aurora_bot",
     "auth": "offline",
     "password": ""
   },
