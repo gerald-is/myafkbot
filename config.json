@@ -1,8 +1,8 @@
 {
   "server": {
-    "host": "ip_of_your_smp_server", 
-    "port": 42422,
-    "version": "1.21.4"
+    "host": "24-7-server.aternos.me", 
+    "port": 63400,
+    "version": ""
   },
   "bot": {
     "username": "aurora_assistant",
